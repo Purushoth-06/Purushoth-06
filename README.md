@@ -3,25 +3,25 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=purushoth-06&label=Profile%20views&color=0e75b6&style=flat" alt="purushoth-06" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=purushoth-06" alt="purushoth-06" /></a> </p>
-
 - 🔭 I’m currently working on **E-Commerce Website Development**
 
-- 🌱 I’m currently learning **Bootstrap Framework and Tailwind Framework**
+- 🌱 I’m currently learning **Bootstrap and Tailwind Framework**
 
 - 👯 I’m looking to collaborate on **Font End Development Projects**
 
-- 🤝 I’m looking for help with **Font End Development Projects and Ideas**
+- 🤝 I’m looking for help with **my projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Purushoth-06](https://github.com/Purushoth-06)
 
-- 💬 Ask me about **Development Related Ideas**
+- 💬 Ask me about **Front End Dev**
 
 - 📫 How to reach me **purushothm806@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/purushoth_2606" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="purushoth_2606" height="30" width="40" /></a>
+<a href="https://dribbble.com/purushoth26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="purushoth26" height="30" width="40" /></a>
+<a href="https://www.behance.net/purushothaman26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="purushothaman26" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -30,3 +30,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=purushoth-06&show_icons=true&locale=en&layout=compact" alt="purushoth-06" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=purushoth-06&show_icons=true&locale=en" alt="purushoth-06" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=purushoth-06&" alt="purushoth-06" /></p>
+
