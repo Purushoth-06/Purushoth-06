@@ -1,3 +1,4 @@
+![Alt text](./ANIMATED%20GIF.gif)
 <h1 align="center">Hi 👋, I'm Purushothaman M</h1>
 <h3 align="center">Aspiring frontend developer</h3>
 
