@@ -2,7 +2,7 @@
   <img src="Animgif4.gif"/>
 </p>
 <h1 align="center">Hi,I'm Purushothaman <img src="Hi%20Gif.gif" width="40" height="40"/></h1>
-<h2 align="center">Frontend Developer</h2>
+<h4 align="center">The journey of a thousand miles begins with one step." – Lao Tzu</h4>
 <h3 align="left">About me:</h3>
 I’m <b>Purushothaman</b>, a dedicated <b>Frontend Developer</b> with a strong focus on building responsive, accessible, and visually refined web interfaces. Proficient in transforming UI/UX designs into high-quality code, I strive to create clean, maintainable, and performance-optimized web applications that align with both user needs and business goals.<br/>
 <br/>
