@@ -1,4 +1,6 @@
-![Alt text](./ANIMATED%20GIF%202.gif)
+<p align="center">
+  <img src="ANIMATED%20GIF%202.gif" width="600" />
+</p>
 <h1 align="center">Hi 👋, I'm Purushothaman M</h1>
 <h3 align="center">Frontend Developer</h3>
 
