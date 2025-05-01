@@ -1,4 +1,4 @@
-![Alt text](./ANIMATED%20GIF.gif)
+![Alt text](./ANIMATED%20GIF%202.gif)
 <h1 align="center">Hi 👋, I'm Purushothaman M</h1>
 <h3 align="center">Frontend Developer</h3>
 
