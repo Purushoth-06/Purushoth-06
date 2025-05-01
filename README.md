@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Animgif4.gif" height="350"/>
+  <img src="Animgif4.gif"/>
 </p>
 <h1 align="center">Hi,I'm Purushothaman <img src="Hi%20Gif.gif" width="40" height="40"/></h1>
 <h2 align="center">Frontend Developer</h2>
